@@ -1,4 +1,4 @@
-$(function(){
+/*$(function(){
     $('#login_popup').css({
        'display': 'flex' 
     });
@@ -18,7 +18,7 @@ $(function(){
     });
 
 });
-
+*/
 function submitForm(){
     var firstName = document.getElementById('fname').value;
     var lastName = document.getElementById('lname').value;
